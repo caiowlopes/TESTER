@@ -1,0 +1,42 @@
+Entradas:
+Comprimento da bobina [m] (altura_carretel): 1.700e-02 (esparadrapo)
+Diâmetro interno da bobina [m] (d_interno_bob): 2.510e-02
+Capacitância [F] (C): 4.700e-04
+Tensão inicial [V] (V0): 7.400e+00
+Seção do fio [mm²] (A_fio): 1.000e+00
+Comprimento do fio [m] (comp_total_fio): 1.500e+00
+Diâmetro do fio com isolamento [m] (d_total_fio): 2.000e-03
+
+Saídas:
+Número total de espiras (N): 1.751e+01
+Número de camadas (n_camadas): 2.060e+00
+Espiras por camada (voltas_por_camada): 8.500e+00
+Resistência total [Ohm] (R): 2.520e-02
+Indutância [H] (L): 1.121e-02
+
+Corrente máxima estimada [A] (I_max): 1.515e+00
+Força magnética aproximada [N] (F_m): 7.570e-01
+
+--------------------------------------------------
+
+Entradas:
+Comprimento da bobina [m] (altura_carretel): 2.100e-02 (ejeção antiga)
+Diâmetro interno da bobina [m] (d_interno_bob): 2.000e-02
+Capacitância [F] (C): 4.700e-04
+Tensão inicial [V] (V0): 7.400e+00
+Seção do fio [mm²] (A_fio): 1.000e+00
+Comprimento do fio [m] (comp_total_fio): 1.500e+00
+Diâmetro do fio com isolamento [m] (d_total_fio): 2.000e-03
+
+Saídas:
+Número total de espiras (N): 2.155e+01
+Número de camadas (n_camadas): 2.053e+00
+Espiras por camada (voltas_por_camada): 1.050e+01
+Resistência total [Ohm] (R): 2.520e-02
+Indutância [H] (L): 8.732e-03
+
+Corrente máxima estimada [A] (I_max): 1.717e+00
+Força magnética aproximada [N] (F_m): 6.128e-01
+
+--------------------------------------------------
+
